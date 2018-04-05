@@ -9,5 +9,5 @@ Terdiri dari :
    Input dan output program melalui console
 ### 3. BolaBerantai.py
    Solusi dari bb.py <br />
-   Input program melalui file eksternal dan output program melalui console <br />
+   Input program melalui file eksternal (bola.txt) dan output program melalui console <br />
    Hal ini dikarenakan jumlah command "SELIP" atau "AMBIL" tidak dibatasi oleh suatu parameter
