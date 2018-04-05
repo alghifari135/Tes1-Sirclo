@@ -1,7 +1,7 @@
 # Tes1-Sirclo
 Tes 1 Sirclo Internship Program 2018
 Terdiri dari :
-1. JamPasir.cpp
+1. JamPasir.cpp\n
    Solusi soal jp.txt
    Input dan output program melalui console
 2. HanyaAdaSatuJalan.cpp
